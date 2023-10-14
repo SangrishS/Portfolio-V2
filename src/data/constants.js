@@ -5,7 +5,7 @@ export const Bio = {
     roles: [
       "Flutter Developer",
       "MERN Stack Developer",
-      "Pyhtonista",
+      "Pythonista",
       "Programmer",
       "AI Enthusiast"
     ],
@@ -211,7 +211,7 @@ export const Bio = {
       school: "St. Dominic Savio's High School, Patna",
       date: "Apr 2009 - Apr 2019",
       grade: "95.8%",
-      desc: "I completed my class 10 education at St. Dominic's where I completery my Elementary education.",
+      desc: "I completed my class 10 education at St. Dominic's where I completed my Elementary education.",
       degree: "CBSE(X), Science with Computer",
     },
   ];
