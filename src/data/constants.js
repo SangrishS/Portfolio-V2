@@ -144,7 +144,6 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "https://media.licdn.com/dms/image/D560BAQFDUKPSU8P0Lw/company-logo_200_200/0/1687947132305?e=1698278400&v=beta&t=cBF3SdszRLspmyvV-rHa1y4tdj_hjjivH7Xy0Z7kOD8",
       role: "Flutter Developer Internship",
       company: "Wedsin Pvt. Ltd.",
       date: "June 2023 - August 2023",
@@ -159,7 +158,6 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://media.licdn.com/dms/image/C510BAQGSObrO0QPlMQ/company-logo_200_200/0/1555704980721?e=1692835200&v=beta&t=FjOWcUVVNzqFbTmmp0iXQkv5keBQC5lxIQ7K6rmMSMQ",
       role: "Open Source Contributor ",
       company: "HacktoberFest",
       date: "OCtober 2022 - Present",
@@ -176,7 +174,6 @@ export const Bio = {
     },
     {
       id: 2,
-      img: "https://media.licdn.com/dms/image/D4D0BAQGfGQHEJt8gPA/company-logo_100_100/0/1666002815185?e=1692230400&v=beta&t=c4obZda4Uh9q6vOcmCbxjoSiExvbvYwEHUlgdY0tU-4",
       role: "Technical Team Member",
       company: "Android Club",
       date: "Nov2022 - Present",
