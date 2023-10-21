@@ -155,6 +155,7 @@ export const Bio = {
         "Firebase",
         "Postman"
       ],
+      doc: "https://drive.google.com/file/d/1VwuqgMuG5Kp7rVSRu5qYI4qv_uUL3J3B/view?usp=share_link",
     },
     {
       id: 1,
