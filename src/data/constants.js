@@ -10,7 +10,7 @@ export const Bio = {
       "AI Enthusiast"
     ],
     description:
-      "As a dedicated and forward-thinking indivisual with a passion for software engineering, I have successfully tackled intricate challenges, all while demonstrating adaptability across multiple programming languages. These qualities equip me to make impactful contributions to diverse software engineering endeavors.",
+      "As a dedicated and forward-thinking individual with a passion for software engineering, I have successfully tackled intricate challenges, all while demonstrating adaptability across multiple programming languages. These qualities equip me to make impactful contributions to diverse software engineering endeavors.",
     github: "https://github.com/Robino0aashu",
     resume:
       "https://drive.google.com/file/d/1ZPTMssffSEqCitSnvvE9xQDTwB9s1p-v/view?usp=sharing",
