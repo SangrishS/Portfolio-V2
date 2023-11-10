@@ -1,7 +1,7 @@
 
 
 export const Bio = {
-    name: "Aashu Kumar",
+    name: "Sangrish",
     roles: [
       "Flutter Developer",
       "MERN Stack Developer",
@@ -11,15 +11,14 @@ export const Bio = {
     ],
     description:
       "As a dedicated and forward-thinking individual with a passion for software engineering, I have successfully tackled intricate challenges, all while demonstrating adaptability across multiple programming languages. These qualities equip me to make impactful contributions to diverse software engineering endeavors.",
-    github: "https://github.com/Robino0aashu",
-    resume:
-      "https://drive.google.com/file/d/1ZPTMssffSEqCitSnvvE9xQDTwB9s1p-v/view?usp=sharing",
-    leetcode: "https://leetcode.com/aashu_kmr/",
-    linkedin: "https://www.linkedin.com/in/aashu-kumar-apr2004/",
-    twitter: "https://twitter.com/aashu_0o_",
-    insta: "https://www.instagram.com/robino_0o_/",
-    // facebook: "https://www.facebook.com/rishav.chanda.165/",
-  };
+    github: "https://github.com/sangrish",
+    resume: "https://drive.google.com/file/d/sangrish_resume_view?usp=sharing",
+    leetcode: "https://leetcode.com/sangrish/",
+    linkedin: "https://www.linkedin.com/in/sangrish/",
+    twitter: "https://twitter.com/sangrish_",
+    insta: "https://www.instagram.com/sangrish/",
+    // facebook: "https://www.facebook.com/sangrish/",
+};
   
   export const skills = [
     {
@@ -144,17 +143,17 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      role: "Flutter Developer Internship",
-      company: "Wedsin Pvt. Ltd.",
-      date: "June 2023 - August 2023",
-      desc: "Built the Frontend of the 'Wedsin' dating app using Flutter and did API integrations using Postman.",
+      role: "Lead AI engineer",
+      company: "Braincade Pvt. Ltd.",
+      date: "June 2023 - Present",
+      desc: "Built A LLM backbone for the company",
       skills: [
-        "Flutter", 
-        "Dart", 
+        "LLM", 
+        "Generative AI", 
         "Firebase",
         "Postman"
       ],
-      doc: "https://drive.google.com/file/d/1VwuqgMuG5Kp7rVSRu5qYI4qv_uUL3J3B/view?usp=share_link",
+      doc: "sangrish@braincade.in",
     },
     {
       id: 1,
@@ -170,17 +169,16 @@ export const Bio = {
         "Python",
         "C++"
       ],
-      doc: "https://www.holopin.io/@robino420#",
+      doc: "https://www.holopin.io/@sangrish#",
     },
     {
       id: 2,
-      role: "Technical Team Member",
-      company: "Android Club",
+      role: "Lead at TEDXVITC",
+      company: "TEDX Club",
       date: "Nov2022 - Present",
-      desc: "As an Android developer at the Android Club (VIT-Chennai), I have had the opportunity to work with amazing people and attend workshops and seminars.",
+      desc: "As an Lead at TedX, I have had the opportunity to work with amazing people and attend workshops and seminars.",
       skills: [
         "Leadership",
-        "Mobile Application Development",
         "Flutter",
         "Firebase",
       ],
@@ -192,25 +190,25 @@ export const Bio = {
       id: 0,
       school: "Vellore Institute of Industrial Technology, Chennai",
       date: "Sept 2021 - July 2025",
-      grade: "9.04 CGPA",
+      grade: "8.4 CGPA",
       desc: "I am currently pursuing my BTech, CSE with specialization in AI and Robotics from Vellore Institute of Technology, Chennai under the guidance of some amazing professors. I have got the opportunity to study in this reputed University along with really smart brains and developers.",
       degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
     },
     {
       id: 1,
-      school: "St. Michael's High School, Patna",
+      school: "Rao Junior college",
       date: "Apr 2019 - Apr 2025",
-      grade: "95.2%",
-      desc: "I completed my class 12 high school education at St. Michaels High School, patna, where I studied Science along with IP.",
+      grade: "95%",
+      desc: "I completed my class 12 high school education at RAO in mumbai, where I studied Science along with IP.",
       degree: "CBSE(XII), Science with IP",
     },
     {
       id: 2,
-      school: "St. Dominic Savio's High School, Patna",
+      school: "Vibgyor High",
       date: "Apr 2009 - Apr 2019",
-      grade: "95.8%",
-      desc: "I completed my class 10 education at St. Dominic's where I completed my Elementary education.",
-      degree: "CBSE(X), Science with Computer",
+      grade: "90",
+      desc: "I completed my class 10 education at Vibgyor where I completed my Elementary education.",
+      degree: "ICSE(X), Science with Computer",
     },
   ];
   
