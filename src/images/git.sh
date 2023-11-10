@@ -12,4 +12,4 @@ read commitMessage
 git commit -m "$commitMessage"
 
 # Push the changes to the remote repository
-git push origin master
+git push origin main
